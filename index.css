@@ -1,6 +1,14 @@
 h1 {
 	color: #933622;
   	font-weight: bold;
- 	 font-size: 60px;
- 	 text-align: center;
+ 	font-size: 60px;
+ 	text-align: center;
+}
+ h2 {
+ 	text-align: center;
+ 	color: #933622;
+ }
+
+li {
+	color: 492016;
 }
