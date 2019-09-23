@@ -5,7 +5,6 @@ margin: 0px;
 h1 {
 	color: #933622;
   	font-weight: bold;
- 	font-size: 60px;
  	text-align: center;
 }
  h2 {
@@ -18,8 +17,9 @@ li {
 }
 
 p {
- text-align:center;
+	margin: 10px;
 }
+
 
 img {
 	align-content: center;
@@ -27,6 +27,7 @@ img {
 
 button {
 	padding: 10px;
+	margin: 10px;
 }
 
 ul {
