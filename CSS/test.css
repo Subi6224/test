@@ -14,7 +14,11 @@ li {
 }
 
 p {
- text-align:center
+ text-align:center;
+}
+
+img {
+	align-content: center;
 }
 
 button {
