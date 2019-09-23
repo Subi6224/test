@@ -17,4 +17,6 @@ p {
  text-align:center
 }
 
-body {background-color: #92a8d1;}
+button {
+	padding: 10px;
+}
