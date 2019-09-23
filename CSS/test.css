@@ -19,6 +19,7 @@ p {
 
 img {
 	align-content: center;
+	max-width: 500px;
 }
 
 button {
