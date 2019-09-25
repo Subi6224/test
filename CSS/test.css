@@ -2,6 +2,9 @@ body {
 margin: 0px;
 }
 
+a {
+	text-indent: 10px;
+}
 h1 {
 	color: #933622;
   	font-weight: bold;
