@@ -61,3 +61,7 @@ li a:hover {
 body {
   background-image: url("https://i.pinimg.com/originals/32/f0/c0/32f0c09e724d80fe8e6a0e289d5fb057.jpg");
 }
+
+#vid {
+    margin: 20px auto;
+}
