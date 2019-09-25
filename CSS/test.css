@@ -3,13 +3,12 @@ margin: 0px;
 }
 
 a {
-	text-indent: 10px;
+	text-align: center;
 }
 h1 {
 	color: #933622;
   	font-weight: bold;
   	margin: 10px;
-  	font-family: Georgia;
 }
 
 h2 {
