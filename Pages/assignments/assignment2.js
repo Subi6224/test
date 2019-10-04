@@ -1,12 +1,12 @@
 function oddOrEven(){
 	var usernum=prompt("Give me a number, and I'll tell you if it's odd or even.");
-	if(usernum==2){
+	if(usernum%2==0){
 		alert("Your number is even");
 	}
-	else if(usernum==3){
+	else if(usernum%2!=0){
 		alert("Your number is odd");
 	}
-	else if(usernum==4){
-		alert("Your number is even");
+	else{
+		alert("That's not a number");
 	}
 }
