@@ -3,8 +3,8 @@ function oddOrEven(){
 	if(usernum%2==0){
 		alert("Your number is even");
 	}
-	else if(usernum%2!=0){
-		alert("Your number is odd");
+	else if(usernum%2==1){
+		alert("Your numer is odd");
 	}
 	else{
 		alert("That's not a number");
