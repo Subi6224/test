@@ -10,3 +10,8 @@ function oddOrEven(){
 		alert("That's not a number");
 	}
 }
+function angles(){
+	var usernum=prompt("Give me 2 angles, and I'll tell you the last angle.");
+	
+}
+
