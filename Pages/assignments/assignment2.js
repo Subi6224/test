@@ -11,16 +11,8 @@ function oddOrEven(){
 	}
 }
 
-function angles(){
-	//var usernum=prompt("Give me 2 angles, and I'll tell you the last angle.");
+function angles()
 	var x = window.prompt("Give me 2 angles, and I'll tell you the last angle.");
 	var y = window.prompt("Give me 2 angles, and I'll tell you the last angle.");
-	var z = x + y;
-	//if(usernum<180){
-	alert(180 - z)
-	//}
-	//else if(usernum!<180){
-	//	alert("That is not a number")
-	}
-//}
+
 
