@@ -11,8 +11,12 @@ function oddOrEven(){
 	}
 }
 
-function angles()
-	var x = window.prompt("Give me 2 angles, and I'll tell you the last angle.");
-	var y = window.prompt("Give me 2 angles, and I'll tell you the last angle.");
+function angles(){
+	var angle1 = prompt("Give me 2 angles, and I'll tell you the last angle.");
+	var angle2 = prompt("Give me 2 angles, and I'll tell you the last angle.");
+	var angle3 = angle1 +angle2;
+	alert(180-angle3);
+}
+
 
 
