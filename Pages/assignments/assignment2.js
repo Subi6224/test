@@ -15,6 +15,6 @@ function angles(){
 	//var usernum=prompt("Give me 2 angles, and I'll tell you the last angle.");
 	var angle1 = window.prompt("Give me 2 angles, and I'll tell you the last angle.");
 	var angle2 = window.prompt("Give me 2 angles, and I'll tell you the last angle.");
-	alert(180-angle1+angle2);
+	alert(180-(angle1+angle2);
 }
 
