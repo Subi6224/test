@@ -14,7 +14,7 @@ function oddOrEven(){
 function angles(){
 	var angle1 = prompt("Give me 2 angles, and I'll tell you the last angle.");
 	var angle2 = prompt("Give me 2 angles, and I'll tell you the last angle.");
-	var angle3 = angle1 +angle2;
+	var angle3 = angle1 + angle2;
 	alert(180-angle3);
 }
 
