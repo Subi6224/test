@@ -24,3 +24,14 @@ function centuries(){
 	alert(Your century is +Math.ceil(usernum));
 }
 
+function integers(){
+	while i >= 100();
+	if(i%4==0){
+		prompt four;
+	} else if(i%10==0){
+		prompt ten
+	} else if(i%10 and i%4==0){
+		prompt fourten
+	}
+}
+
