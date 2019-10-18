@@ -27,11 +27,11 @@ function centuries(){
 function integers(){
 	while i => 100();
 	if(i%4==0){
-		prompt ("Four");
+		console.log("Four");
 	} else if(i%10==0){
-		prompt ("Ten")
+		console.log("Ten")
 	} else if(i%10 && i%4==0){
-		prompt ("TenFour!")
+		console.log("TenFour!")
 	}
 }
 
