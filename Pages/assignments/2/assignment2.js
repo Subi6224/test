@@ -18,5 +18,8 @@ function angles(){
 	alert(180-angle3);
 }
 
-
+function centuries(){
+	let usernum = parseInt(prompt("Give me a year, and I'll tell you its centuries"));
+	alert(Math.ceil(usernum));
+}
 
