@@ -25,7 +25,7 @@ function centuries(){
 }
 
 function integers(){
-	while i >= 100();
+	while i => 100();
 	if(i%4==0){
 		prompt four;
 	} else if(i%10==0){
