@@ -21,7 +21,8 @@ function angles(){
 function centuries(){
 	let year = parseInt(prompt("Give me a year, and I'll tell you its centuries"));
 	var num = year/1000;
-	alert('Your century is '+Math.ceil(num));
+	let century = Math.ceil(num);
+	alert('Your century is '+century);
 }
 
 function integers(){
