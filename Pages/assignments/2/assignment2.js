@@ -22,7 +22,7 @@ function centuries(){
 	let year = parseInt(prompt("Give me a year, and I'll tell you its centuries"));
 	var num = year/1000;
 	let century = Math.ceil(num);
-	alert('Your century is '+century);
+	alert('Your century is '+ century);
 }
 
 function integers(){
