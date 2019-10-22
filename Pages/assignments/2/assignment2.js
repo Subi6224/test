@@ -20,19 +20,21 @@ function angles(){
 
 function centuries(){
 	let year = parseInt(prompt("Give me a year, and I'll tell you its centuries"));
-	var num = year/1000;
+	var num = year/100;
 	let century = Math.ceil(num);
-	alert('Your century is '+ century);
+	alert(century + ' century');
 }
 
 function integers(){
-	while i >= 100();
-	if(i%4==0){
-		console.log("Four");
-	} else if(i%10==0){
-		console.log("Ten")
-	} else if(i%10 && i%4==0){
-		console.log("TenFour!")
-	}
+	for(let i=1;i<=100;i+=1){
+		if(i%10 && i%4==0){
+			console.log("TenFour!");
+		} else if(i%4==0){
+			console.log("Four");
+		} else if(i%10==0){
+			console.log("Ten");
+		} else {
+			console.log(i);
+		}}
 }
 
