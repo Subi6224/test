@@ -27,7 +27,7 @@ function centuries(){
 
 function integers(){
 	for(i=1; i<=100; i+=1){
-		if(i%10 && i%4==0){
+		if(i%10&&i%4==0){
 				console.log("TenFour!");
 			} else if(i%4==0){
 				console.log("Four");
