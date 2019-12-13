@@ -1,4 +1,4 @@
-function encryption(){
+function encryption(usercode){
   let usercode="Boo! It's a secret message!";
   let usercode=usercode.split(/(\W+)/);
   
