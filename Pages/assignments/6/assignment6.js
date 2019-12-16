@@ -1,4 +1,4 @@
-function encryption(){
+function e(){
 	let usercode=prompt("Give me a code, and I'll encrypt it for you.");
   	usercode=usercode.split(/(\W+)/);
   
