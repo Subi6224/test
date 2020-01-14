@@ -1,8 +1,7 @@
 function e(){
 	let usercode=prompt("Give me a code, and I'll encrypt it for you.");
   	usercode=usercode.split(/(\W+)/);
-  
-  for (i = 0; i < usercode.length; i++){
+  	for (i=0; i<usercode.length; i++){
     if (usercode[i]%2==0){
 	    switch(x) {
 			case "a":
@@ -353,5 +352,5 @@ function d(){
 
 
  }
- 	alert(usercode)
+ 	alert(usercode);
 }
